@@ -1,0 +1,3 @@
+g++ -Wall -Iheaders -o FindRouteInMaze src/*.cpp
+.\FindRouteInMaze
+cd "d:\amt0r\kpi\c++\kurs\" ; if ($?) { g++ -Wall -Iheaders -o FindRouteInMaze src/*.cpp } ; if ($?) { .\FindRouteInMaze }
